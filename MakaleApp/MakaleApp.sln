@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakaleApp.WebUI", "MakaleApp\MakaleApp.WebUI.csproj", "{B5894030-ECCA-48BA-B6F0-E23F882BE402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakaleApp.Entity", "MakaleApp.Entity\MakaleApp.Entity.csproj", "{BED4E189-FC81-4573-A7C3-F22AD3D31E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5894030-ECCA-48BA-B6F0-E23F882BE402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5894030-ECCA-48BA-B6F0-E23F882BE402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5894030-ECCA-48BA-B6F0-E23F882BE402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5894030-ECCA-48BA-B6F0-E23F882BE402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED4E189-FC81-4573-A7C3-F22AD3D31E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED4E189-FC81-4573-A7C3-F22AD3D31E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED4E189-FC81-4573-A7C3-F22AD3D31E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED4E189-FC81-4573-A7C3-F22AD3D31E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CA64FA-F467-4A6E-866E-6D9A1C3674C3}
+	EndGlobalSection
+EndGlobal
